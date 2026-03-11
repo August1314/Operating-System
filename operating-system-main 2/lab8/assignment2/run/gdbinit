@@ -1,0 +1,15 @@
+target remote:1234
+file ../build/kernel.o
+b fork
+b syscall_fork
+b ProgramManager::fork
+display/i $pc
+display/x $eax
+display/x $ebx
+display/x $ecx
+display/x $edx
+display/x $esi
+display/x $edi
+display/x $esp
+display/x $ebp
+display/x $eflags
