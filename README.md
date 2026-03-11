@@ -1,8 +1,22 @@
-# 操作系统实验仓库
-
 <div align="center">
-  <img src="https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=operating%20system%20kernel%20development%20with%20assembly%20and%20C%2C%20educational%20computer%20science%20project%2C%20professional%20technical%20illustration&image_size=landscape_16_9" alt="Operating System Development" width="800">
-  <p>🎉 一个全面的操作系统实验教学仓库，从底层汇编到内核开发</p>
+  <h1>操作系统实验仓库</h1>
+  <p>🎓 一个全面的操作系统实验教学仓库，从底层汇编到内核开发</p>
+  <hr style="width: 100%; border: 1px solid #e0e0e0; margin: 20px 0;">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 10px 0;">
+    <span style="background-color: #f5f5f5; padding: 5px 10px; border-radius: 4px; font-size: 14px;">GCC</span>
+    <span style="background-color: #f5f5f5; padding: 5px 10px; border-radius: 4px; font-size: 14px;">NASM</span>
+    <span style="background-color: #f5f5f5; padding: 5px 10px; border-radius: 4px; font-size: 14px;">QEMU</span>
+    <span style="background-color: #f5f5f5; padding: 5px 10px; border-radius: 4px; font-size: 14px;">GDB</span>
+    <span style="background-color: #f5f5f5; padding: 5px 10px; border-radius: 4px; font-size: 14px;">x86汇编</span>
+    <span style="background-color: #f5f5f5; padding: 5px 10px; border-radius: 4px; font-size: 14px;">C/C++</span>
+    <span style="background-color: #f5f5f5; padding: 5px 10px; border-radius: 4px; font-size: 14px;">License</span>
+    <span style="background-color: #f5f5f5; padding: 5px 10px; border-radius: 4px; font-size: 14px;">GPL v3.0</span>
+  </div>
+  <div style="margin: 15px 0;">
+    <a href="#" style="color: #0366d6; text-decoration: none; margin: 0 5px;">English</a> | 
+    <a href="#" style="color: #0366d6; text-decoration: none; margin: 0 5px;">中文</a>
+  </div>
+  <hr style="width: 100%; border: 1px solid #e0e0e0; margin: 20px 0;">
 </div>
 
 ## 📚 项目概述
